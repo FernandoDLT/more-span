@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+.mom {
+    color: blue;
+    font-weight: bold;
+}
+
+.dad {
+    color: darkolivegreen;
+    font-weight: bold;
+}
